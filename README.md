@@ -4,7 +4,7 @@
 
 **Welcome to our Frontend Developer Test**
 
-This test consists of a series of tasks which may take a few hours to complete, depending on your experience level. The primary purpose of this test is to infer your __logical thinking__, __problem-solving skills__, and __fidelity to the design/prototype__.
+This test consists of a series of tasks which may take a few hours to complete, depending on your experience level. The primary purpose of this test is to infer your __logical thinking__, __problem-solving skills__, and __fidelity to the design and prototype__.
 
 ## Project Setup Instructions
 
@@ -22,7 +22,7 @@ To recreate the design and functionality of a generic office-listings page. Plea
 
 ## Tasks
 
-1. Recreate [the design](https://www.figma.com/file/VU2BJHrMmoSEdQmMa1EbYP/Front-end-Test?node-id=2253%3A2129) using [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/)
+1. Recreate [the design](https://www.figma.com/file/VU2BJHrMmoSEdQmMa1EbYP/Front-end-Test?node-id=2253%3A2129) and [interactive prototype](https://www.figma.com/proto/VU2BJHrMmoSEdQmMa1EbYP/Front-end-Test?node-id=2253%3A2129&viewport=-4357%2C528%2C0.5&scaling=min-zoom) using [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/)
 1. Populate the office listings from a datasource (JSON or hard-coded array)
 1. Recreate the following interactivity
     1. Toggle open/close office cards
@@ -46,7 +46,7 @@ Data does not need to persist (no backend needed), but if you wish, you can use 
 
 You´ll have up to 7 consecutive days to work on the test.
 
-Please submit your test as a Github repository URL, along with a readme file containing instructions on how to set up and run your application.
+Please submit your test as a __private__ Github repository URL, along with a readme file containing instructions on how to set up and run your application.
 
 Please add [Fez](https://github.com/felipesnts), [Bill](https://github.com/billaddison), and [Pam](https://github.com/PamTurk) with view access to your __private repository__.
 
