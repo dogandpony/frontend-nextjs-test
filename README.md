@@ -48,7 +48,7 @@ You´ll have up to 7 consecutive days to work on the test.
 
 Please submit your test as a __private__ Github repository URL, along with a readme file containing instructions on how to set up and run your application.
 
-Please add [Fez](https://github.com/felipesnts), [Bill](https://github.com/billaddison), and [Pam](https://github.com/PamTurk) with view access to your __private repository__.
+Please add [Fez](https://github.com/felipesnts) and [Bill](https://github.com/billaddison) with view access to your __private repository__.
 
 ## Submissions
 
